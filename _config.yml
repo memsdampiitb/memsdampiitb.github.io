@@ -26,7 +26,7 @@ baseurl: ''
 title: 'DAMP MEMS IIT Bombay'
 description: 'This is my new website'
 permalink: pretty
-logo: assets/logo.png
+logo: /assets/logo.png
 
 # Pagination
 paginate: 5
