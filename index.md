@@ -1,6 +1,6 @@
 ---
 title: MEMS DAMP
-feature_image: assets/home_back.png
+feature_image: assets/home_back.jpeg
 feature_text: |
   ##
 ---
