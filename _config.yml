@@ -36,6 +36,12 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
+- title: Courses
+  url: /courses/
+- title: Experiences
+  url: /experiences/
+- title: Reviews
+  url: /reviews/
 - title: About
   url: /about/
 - title: Blog
