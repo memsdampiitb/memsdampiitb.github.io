@@ -42,6 +42,8 @@ navigation_header:
   url: /experiences/
 - title: Reviews
   url: /reviews/
+- title: Team
+  url: /Team/
 - title: About
   url: /about/
 - title: Blog
