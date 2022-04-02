@@ -11,7 +11,7 @@ Contains course reviews, placement reviews, apping & semex fundaes and much more
 
 ## Third Year Courses
 
-- [MM 325: Phase Transformation](home/)
+- [MM 325: Phase Transformation](mm325/)
 - MM 305: Kinetics of Processes
 - MM 327: Mechanical Behaviour of Materials
 - MM 312: Heat Treatment Lab
