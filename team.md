@@ -15,10 +15,6 @@ Sudhanshu Suryawanshi
 <img src="assets/suddo.jpeg" alt="drawing" width="200"/>      | Harshada Suryawanshi <br> +91 bla bla bla <br> email
 ----|----
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | <img src="assets/suddo.jpeg" alt="drawing" width="200"/>        | And more      |
 
 </div>
 
@@ -28,4 +24,10 @@ Sudhanshu Suryawanshi
  | Syntax      | Description | Test Text     |
  | :---        |    :----:   |          ---: |
  | Header      | Title       | Here's this   |
- | Paragraph   | Text        | And more      |
+ | Paragraph   | <img src="assets/suddo.jpeg" alt="drawing" width="200"/>        | And more      |
+
+
+ | Syntax      | Description | Test Text     |
+ | :---        |    :----:   |          ---: |
+ | Header      | Title       | Here's this   |
+ | Paragraph   | {% include figure.html image="assets/suddo.jpeg" width ="200"    | And more      |
