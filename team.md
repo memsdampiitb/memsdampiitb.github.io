@@ -1,24 +1,21 @@
 ---
-title: Metallurgical Engineering & Materials Science
+title: Metallurgical Engineering & Materials Science Team
 ---
+<div align="center">
+my text here.
 
-Contains course reviews, placement reviews, apping & semex fundaes and much more
-{% include figure.html image="assets/suddo.jpeg" position ="left" width ="100" caption="Sudhanshu Suryawanshi"%}{% include figure.html image="assets/logo.png" position ="center" width ="100" caption="Sudhanshu Suryawanshi"%}{% include figure.html image="assets/suddo.jpeg" position ="right" width ="100" caption="Sudhanshu Suryawanshi"%}
+
+# Faculty Advisor
+
+{% include figure.html image="assets/suddo.jpeg" position ="center" width ="200" caption="Sudhanshu Suryawanshi"%}{% include figure.html image="assets/logo.png" position ="center" width ="100" caption="Sudhanshu Suryawanshi"%}{% include figure.html image="assets/suddo.jpeg" position ="right" width ="100" caption="Sudhanshu Suryawanshi"%}
 Sudhanshu Suryawanshi        
-
-<img src="assets/suddo.jpeg" alt="drawing" width="200"/>
 
 {% include figure.html image="assets/suddo.jpeg" position ="center" width ="30" caption="Sudhanshu Suryawanshi"%}{% include figure.html image="assets/logo.png" position ="center" width ="30" caption="Sudhanshu Suryawanshi"%}
 
-<p float="center">
-  <img src="assets/suddo.jpeg" width="100" /> 
-  <img src="assets/suddo.jpeg" width="100" />
-  <img src="assets/suddo.jpeg" width="100" />
-</p>
+<img src="assets/suddo.jpeg" alt="drawing" width="200"/>      | Harshada Suryawanshi <br> +91 bla bla bla <br> email
+----|----
 
+</div>
 
-<p float="left">
-  <img src="assets/suddo.jpeg" width="100" />
-  <img src="assets/suddo.jpeg" width="100" />
-  <img src="assets/suddo.jpeg" width="100" />
-</p>
+ <img src="assets/suddo.jpeg" alt="drawing" width="200"/>      | Sudhanshu Suryawanshi <br> +91 bla bla bla <br> email
+ ----|----
