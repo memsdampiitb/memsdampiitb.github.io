@@ -30,4 +30,4 @@ Sudhanshu Suryawanshi
  | Syntax      | Description | Test Text     |
  | :---        |    :----:   |          ---: |
  | Header      | Title       | Here's this   |
- | Paragraph   | {% include figure.html image="assets/suddo.jpeg" width ="200"    | And more      |
+ | Paragraph   | {% include figure.html image="assets/suddo.jpeg" width ="200"%}    | And more      |
